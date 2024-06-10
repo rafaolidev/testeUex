@@ -24,8 +24,6 @@ class RouteTest extends TestCase
         $response->assertStatus(200);
     }
 
-    // Adicione testes para as demais rotas aqui...
-
     /**
      * Testa a rota de sugestão de endereço.
      *
